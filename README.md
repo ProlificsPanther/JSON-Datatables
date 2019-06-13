@@ -1,4 +1,4 @@
-# JSON-Datatables
+# JSONDatatables
 
 Once you downloaded the project, Extract it.
 
@@ -24,4 +24,7 @@ Note:- This application uses 15 days trial version of dataTables.editor.js and d
 [Click here](https://www.youtube.com/watch?v=8jE2WUcjkQM) for video tutorial
 
 Need a Panther Web 551 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther)
-Contact support@prolifics.com for a 45 day license included.
+
+Contact support@prolifics.com for a 45 day license.
+
+How to setup a Panther Servlet Web Application? [Click Here](https://github.com/ProlificsPanther/PantherWeb/releases)
