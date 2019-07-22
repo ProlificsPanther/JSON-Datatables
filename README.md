@@ -23,7 +23,7 @@ Note:- This application uses 15 days trial version of dataTables.editor.js and d
 
 [Click here](https://www.youtube.com/watch?v=8jE2WUcjkQM) for video tutorial
 
-Need a Panther Web 551 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther)
+Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb)
 
 [Click Here](https://www.prolifics.com/panther-trial-license-request) for a 45 day license.
 
