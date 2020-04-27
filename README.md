@@ -3,7 +3,9 @@
 Once you downloaded the project, Extract it.
 
 Make sure you have node and json-server installed on your system.
+
 Download Node.JS: https://nodejs.org/en/download/
+
 Install JSON-Server Module: npm i json-server
 
 Now follow the steps below to run the application
