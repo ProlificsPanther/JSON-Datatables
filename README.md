@@ -1,6 +1,6 @@
 # JSONDatatables
 
-Once you downloaded the project, Extract it.
+Once you download the project, Extract it.
 
 Make sure you have node and json-server installed on your system.
 
